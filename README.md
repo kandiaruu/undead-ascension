@@ -5,7 +5,7 @@
 
 ## ⬇️ Скачать / Download
 
-**[Последняя версия (Windows) / Latest version (Windows)](https://github.com/kandiaruu/undead-ascension/releases/latest)** — файл `UndeadAscension-*.zip`.
+**[Последняя версия (Windows) / Latest version (Windows)](https://github.com/kandiaruu/undead-ascension/releases/latest)** — Windows: `UndeadAscension-*-windows.zip`, Linux: `UndeadAscension-*-linux.tar.gz`.
 
 ## Как запустить / How to run
 
@@ -15,6 +15,13 @@
    *Run `UndeadAscension1.exe`.*
 3. Если Windows пишет «Windows защитила ваш компьютер» — нажми **Подробнее → Выполнить в любом случае** (у игры пока нет цифровой подписи).
    *If Windows shows "Windows protected your PC", click **More info → Run anyway** (the game isn't code-signed yet).*
+
+### Linux
+
+```bash
+tar -xzf UndeadAscension-*-linux.tar.gz
+./UndeadAscension/UndeadAscension.x86_64
+```
 
 ## Онлайн и PvP / Online and PvP
 
